@@ -6,9 +6,9 @@
     <!-- that they should prefer consuming it instead. -->
     <!-- do_not_remove: published-with-gradle-metadata -->
     <modelVersion>4.0.0</modelVersion>
-    <groupId>io.ktor</groupId>
+    <groupId>io.ktor.gc</groupId>
     <artifactId>ktor-server-jetty11-jvm</artifactId>
-    <version>2.0.2-gc</version>
+    <version>2.0.4-gc</version>
     <repositories>
         <repository>
             <id>jitsi-maven</id>
